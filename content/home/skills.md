@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+  icon = "table"
+  icon_pack = "fas"
+  name = "Oracle SQL"
 
 [[feature]]
   icon = "linux"
